@@ -32,8 +32,8 @@ three classes: Normal, Pneumonia, and COVID-19.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/lltlien/covid19-xray-predictor.git
-   cd covid19-xray-predictor
+   git clone https://github.com/lltlien/covid19-xray-detection-flask-app.git
+   cd covid19-xray-detection-flask-app
 
 2. Create and activate a virtual environment:
 
@@ -46,7 +46,7 @@ three classes: Normal, Pneumonia, and COVID-19.
     ```bash
     pip install -r requirements.txt
 
-4. Download model to `covid19-xray-predictor` folder: [This link](https://github.com/lltlien/covid19-xray-detection-flask-app/releases/download/lastest/concatenate-fold3.hdf5)
+4. Download model to `covid19-xray-detection-flask-app` folder: [This link](https://github.com/lltlien/covid19-xray-detection-flask-app/releases/download/lastest/concatenate-fold3.hdf5)
 
 5. Run the application:
 
