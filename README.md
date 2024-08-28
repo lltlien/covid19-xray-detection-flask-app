@@ -1,7 +1,7 @@
 # covid19-xray-detection-flask-app
 A Flask web application for predicting COVID-19, pneumonia and normal lung conditions from chest X-ray images using deep learning. 
 
-## Model Model Training
+## Model Training
 
 - The model was trained using data from [this dataset](https://github.com/lindawangg/COVID-Net/tree/master)
 
