@@ -46,7 +46,7 @@ three classes: Normal, Pneumonia, and COVID-19.
     ```bash
     pip install -r requirements.txt
 
-4. - Download model to `covid19-xray-predictor` folder: [This link](https://github.com/lltlien/covid19-xray-predictor/releases/tag/latest)
+4. - Download model to `covid19-xray-predictor` folder: [This link](https://github.com/lltlien/covid19-xray-detection-flask-app/releases/download/lastest/concatenate-fold3.hdf5)
 
 5. Run the application:
 
