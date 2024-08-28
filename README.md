@@ -54,3 +54,12 @@ three classes: Normal, Pneumonia, and COVID-19.
     python3 app.py
 
 6. Open your web browser and go to http://127.0.0.1:5000/ to use the app.
+
+<p align="center">
+	<img src="static/web1.png" alt="photo not available" width="100%" height="70%">
+	<br>
+	<img src="static/web2.png" alt="photo not available" width="100%" height="70%">
+	<br>
+    <em>The simple web app</em>
+
+</p>
